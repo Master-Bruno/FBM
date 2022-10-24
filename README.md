@@ -6,7 +6,7 @@ Facebook hacking paid tool
 + Multi Brute
 + Fast Crack
 
-### Installation On Termux
+### Installation On Termux/Linux
  
  
 ```bash
